@@ -1,2 +1,2 @@
 # Image_Gallery
-This is gallery.
+This is gallery. Very beautiful gallery...
